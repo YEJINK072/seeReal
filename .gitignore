@@ -92,7 +92,6 @@ local.properties
 
 .classpath
 .project
-web.xml
 MANIFEST.MF
 
 /Servers
