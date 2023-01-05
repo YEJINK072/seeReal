@@ -6,6 +6,6 @@ import lombok.Data;
 public class CollectionMovie {
 	private int collectionNo;
 	private String movieTitle;
-	private int movieYear;
+	private String movieYear;
 
 }

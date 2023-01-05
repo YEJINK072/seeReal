@@ -13,7 +13,7 @@ public class Meeting {
 	private String meetingPlace; // MEETING_PLACE	VARCHAR2(300 BYTE)
 	private String meetingPlaceDatail; // MEETING_PLACE_DETAIL	VARCHAR2(300 BYTE)
 	private String movieTitle; // MOVIE_TITLE	VARCHAR2(300 BYTE)
-	private int movieYear; // MOVIE_YEAR	NUMBER
+	private	String movieYear; // MOVIE_YEAR	NUMBER
 	private String status; // STATUS	CHAR(1 BYTE)
 	private Date meetingEnrollDate; // MEETING_ENROLL	DATE
 	private int memberNo; // MEMBER_NO	NUMBER
